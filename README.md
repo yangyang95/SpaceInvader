@@ -29,7 +29,7 @@ Download openGL.zip and place all files into specific folder:<br>
 + Place files in lib folder into:<br>
   C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\lib<br>
 + Place files in dll folder into:<br>
-  C:\Windows\SysWOW64 (64bit) 或 C:\Windows\System32 (32bit)<br>
+  C:\Windows\SysWOW64 (64bit) or C:\Windows\System32 (32bit)<br>
 + Place gl Folder in include folder into:<br>
   C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include
 
