@@ -3,12 +3,20 @@
 
 附註：這個程式是我初學OpenGL時候的作品，可能會有寫法不夠好或是bug的出現，有問題可以透過信箱聯絡我，盡可能幫助您。
 
+#OpenGL設定
+要使用這個程式之前，你需要在電腦上先設定好OpenGl的環境。
+
+
+
 # SpaceInvader
 Easy OpenGL Space Invader game.
 This is the program I wrote when I was taking computer graphics course in college. I have a hard time learning OpenGL,
 especially, chinese resource of OpenGL is to hard to find on the web. So I think it would be great if there is a easy program that everyone can find online. Hopefully, it can help someone who is new to OpenGL.
 
 p.s. The program is written when I am OpenGl beginner, there might be some bug or better way to write. If there are any problem, please feel free to contact me. 
+
+#OpenGL setup
+Before using this program, you should setup OpenGL environment on your computer.
 
 #聯絡方式 Contact Information
 Jerry Weng  
