@@ -3,9 +3,16 @@
 
 附註：這個程式是我初學OpenGL時候的作品，可能會有寫法不夠好或是bug的出現，有問題可以透過信箱聯絡我，盡可能幫助您。
 
-#OpenGL設定
+#OpenGL環境設定
 要使用這個程式之前，你需要在電腦上先設定好OpenGl的環境。
 
+下載 openGL.zip 並將三個資料夾內的所有檔案複製到以下資料夾中：<br>
++ lib 資料夾內檔案放於：<br>
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\lib<br>
++ dll 資料夾內檔案放於：<br>
+  C:\Windows\SysWOW64 (64位元) 或 C:\Windows\System32 (32位元)<br>
++ include 資料夾內包含一個資料夾 gl，將此資料夾放於：<br>
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include
 
 
 # SpaceInvader
@@ -15,8 +22,16 @@ especially, chinese resource of OpenGL is to hard to find on the web. So I think
 
 p.s. The program is written when I am OpenGl beginner, there might be some bug or better way to write. If there are any problem, please feel free to contact me. 
 
-#OpenGL setup
+#OpenGL Environment Setup
 Before using this program, you should setup OpenGL environment on your computer.
+
+Download openGL.zip and place all files into specific folder:<br>
++ Place files in lib folder into:<br>
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\lib<br>
++ Place files in dll folder into:<br>
+  C:\Windows\SysWOW64 (64bit) 或 C:\Windows\System32 (32bit)<br>
++ Place gl Folder in include folder into:<br>
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include
 
 #聯絡方式 Contact Information
 Jerry Weng  
